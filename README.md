@@ -10,8 +10,7 @@ Where to see more about me: [My Blog](https://papode.dev/)
 - 🌱 
 I am currently learning about AWS, Infra and micro frontends architecture.
 
-- ⚡ Curiosity:
-⚡ Curiosity:
+- ⚡ 
 I work with IT or related areas for over 4 years, I love a good RPG and discuss frontend 😄
 
 ## About me
@@ -40,8 +39,8 @@ I love working as a team, I am very communicative, I am driven by challenges, pr
 
 What I don't know, I learn fast =)
 
-You can read a little more about my trajectory at this link [My retrospective] (https://papode.dev/minha-retrospectiva-2019/)
+You can read a little more about my trajectory at this link [My retrospective](https://papode.dev/minha-retrospectiva-2019/)
 
 ## Contact
 
- [Linkedin] (https://www.linkedin.com/in/benites-amorim/)
+ [Linkedin](https://www.linkedin.com/in/benites-amorim/)
