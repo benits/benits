@@ -1,4 +1,24 @@
-### Software Engineer 👋
+### Hi, I'm Software Engineer 👋
+
+## Contact
+<p align="center">
+    <!-- Badge - GitHub -->
+  <a href="https://github.com/benits">
+    <img src="https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/benits">
+  </a>
+
+  <!-- Badge - LinkedIn -->
+  <a href="https://www.linkedin.com/in/benites-amorim/">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/benites-amorim/">
+  </a>
+
+  <!-- Badge - Gmail -->
+  <a href="mailto:benites.amorim@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:benites.amorim@gmail.com">
+  </a>
+
+
+</p>
 
 - 🔭
 I am currently working at a startup @Easycarros in the mobility sector.
@@ -42,6 +62,3 @@ What I don't know, I learn fast =)
 
 You can read a little more about my trajectory at this link [My retrospective] (https://papode.dev/minha-retrospectiva-2019/)
 
-## Contact
-
- [Linkedin] (https://www.linkedin.com/in/benites-amorim/)
