@@ -16,7 +16,9 @@ Where to see more about me: [My Blog](https://papode.dev/)
 I am currently learning about AWS, Infra and micro frontends architecture.
 
 - ⚡ 
-I work with IT or related areas for over 4 years, I love a good RPG and discuss frontend 😄
+Working with IT or related areas for over 4 years, adopting a good RPG and talking about front end 😄
+
+🎯 Focused in <b>Node.JS</b>, <b>ReactJS</b> and <b>React Native</b>
 
 ## About me
 My name is Matheus de Amorim Benites. passionate about innovation and technology, the greater the Challenge, the greater my desire to participate, I have experience with Web and Mobile development.
@@ -49,19 +51,23 @@ You can read a little more about my trajectory at this link [My retrospective](h
 ## Contact
 <p align="center">
     <!-- Badge - GitHub -->
-  <a href="https://github.com/benits">
+  <a href="https://github.com/benits"  alt="Github" target="blank">
     <img src="https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/benits">
   </a>
 
   <!-- Badge - LinkedIn -->
-  <a href="https://www.linkedin.com/in/benites-amorim/">
+  <a href="https://www.linkedin.com/in/benites-amorim/"  alt="Linkedin" target="blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/benites-amorim/">
   </a>
 
   <!-- Badge - Gmail -->
-  <a href="mailto:benites.amorim@gmail.com">
+  <a href="mailto:benites.amorim@gmail.com"  alt="Email" target="blank">
     <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:benites.amorim@gmail.com">
   </a>
-
+  
+   <!-- Badge - Gmail -->
+<a href="https://web.whatsapp.com/send?phone=+5541989006487" alt="WhatsApp" target="blank">
+    <img src="https://img.shields.io/badge/-WhatsApp-28A745?style=flat-square&logo=WhatsApp&logoColor=white" />
+  </a>
 
 </p>
