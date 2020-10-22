@@ -20,6 +20,16 @@ Working with IT or related areas for over 4 years, adopting a good RPG and talki
 
 🎯 Focused in <b>Node.JS</b>, <b>ReactJS</b> and <b>React Native</b>
 
+💻  &nbsp; Programming: <br/>
+
+![Docker](https://img.shields.io/badge/-Docker-099cec?style=flat&logoColor=fff&logo=docker)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-FEAE32?style=flat&logoColor=fff&logo=javascript)&nbsp;
+![Linux](https://img.shields.io/badge/-Linux-f2930d?style=flat&logoColor=fff&logo=linux)&nbsp;
+![Node](https://img.shields.io/badge/-Node.js-5B9856?style=flat&logoColor=fff&logo=node.js)&nbsp;
+![ReactJs](https://img.shields.io/badge/-React.js-18BCEE?style=flat&logoColor=fff&logo=react)&nbsp;
+![ReactNative](https://img.shields.io/badge/-ReactNative.js-369?style=flat&logoColor=fff&logo=react-native)&nbsp;
+
+
 ## About me
 My name is Matheus de Amorim Benites. passionate about innovation and technology, the greater the Challenge, the greater my desire to participate, I have experience with Web and Mobile development.
 
