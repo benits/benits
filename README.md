@@ -6,8 +6,8 @@
 </p>
 
 - 🔭
-I am currently working at a startup @Easycarros in the mobility sector.
-I'm working on the frontend using React, Hooks and Styled Components.
+I am currently working at a startup @Rockcontent in the content marketing sector.
+I'm working on the frontend using React, Hooks, clean archteture and Styled Components.
 
 - 📫 
 Where to see more about me: [My Blog](https://papode.dev/)
