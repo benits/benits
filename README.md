@@ -95,6 +95,8 @@ I am currently learning about AWS, Infra and micro frontends architecture.
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=benits&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
+  
+![Snake animation](https://github.com/benits/benits/blob/output/github-contribution-grid-snake.svg)
 
 [website]: https://papode.dev
 [twitter]: https://twitter.com/omatheusbenites
