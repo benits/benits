@@ -96,7 +96,7 @@ I am currently learning about AWS, Infra and micro frontends architecture.
 </div>
 
   
-![Snake animation](https://github.com/benits/benits/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/benits/benits/blob/output/github-contribution-grid-snake.svg)
 
 [website]: https://papode.dev
 [twitter]: https://twitter.com/omatheusbenites
