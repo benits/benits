@@ -1,103 +1,145 @@
-### Hi there, I'm Matheus Benites - [papode.dev][website] 👋
+<div align="center">
 
-[![Website](https://img.shields.io/website?label=papode.dev&style=for-the-badge&url=https%3A%2F%2Fpapode.dev)](https://papode.dev)
-[![Twitter Follow](https://img.shields.io/twitter/follow/omatheusbenites?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fomatheusbenites&screen_name=omatheusbenites)
+<!-- ANIMATED TYPING HEADER -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Senior+Software+Engineer+%7C+AI+%2F+LLM+Product+Engineering;Building+production+AI+systems+with+TypeScript+%26+Python)](https://github.com/benits)
 
-My name is Matheus de Amorim Benites. passionate about innovation and technology, the greater the Challenge, the greater my desire to participate, I have experience with Web and Mobile development.
+<p>
+  <a href="https://linkedin.com/in/omatheusbenites"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:matheus@tamy.ai"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://tamy.ai"><img src="https://img.shields.io/badge/tamy.ai-000000?style=for-the-badge&logo=safari&logoColor=white" alt="tamy.ai"/></a>
+  <img src="https://komarev.com/ghpvc/?username=benits&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS" alt="Profile views"/>
+</p>
 
-I love working as a team, I am very communicative, I am driven by challenges, pro active and hands on. In my spare time, I like to learn new things and teach my friends about something I have learned.
-
-What I don't know, I learn fast =)
-
-You can read a little more about my trajectory at this link [My retrospective](https://papode.dev/minha-retrospectiva-2019/)
-
-## I'm a Husband, Father, Software Engineer, and Teacher!!
-
-- 🔭
-I am currently working at a startup @Rockcontent in the content marketing sector.
-I'm working on the frontend using React, Hooks, clean archteture and Styled Components.
-
-- 📫 
-Where to see more about me: [My Blog](https://papode.dev/)
-
-- 🌱 
-I am currently learning about AWS, Infra and micro frontends architecture.
-
-- ⚡ Fun fact: I love to craft beer
-
-🎯 Focused in <b>ReactJS</b>, <b>Micro front-end</b> and <b>Scalable Web Applications</b>
-
-### Connect with me:
-
-[<img align="left" alt="papode.dev" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="omatheusbenites | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="omatheusbenites | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="omatheusbenites | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-<br/>
-<br/>
-
-### Languages and Tools:
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][youtube]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][youtube]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][youtube]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][youtube]
-[<img align="left" alt="Typescript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />][youtube]
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][youtube]
-[<img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />][youtube]
-[<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />][youtube]
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][youtube]
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][youtube]
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][youtube]
-[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][youtube]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][youtube]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][youtube]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][youtube]
-
-<br />
-<br />
-
----
-
-### 📺 Most Popular YouTube Videos
-
-<!-- YOUTUBE:START -->
-- [Como conseguir o primeiro emprego como programador, sem experiência profissional](https://www.youtube.com/watch?v=IzvW8Po6pow)
-- [O QUE FAZ UM PROGRAMADOR? || Papode.dev || #piloto_01](https://youtube.com/watch?v=ejXtcP81F4c)
-- [Como construir Interfaces Componentizadas e Reutilizável na Pratica com ReactJs - Curso: ep01/08](https://www.youtube.com/watch?v=F1HqLD6TgCw)
-- [Configurando VS Code para URI Online Judge - Javascript](https://www.youtube.com/watch?v=Ye3l8kTjOM0)
-- [Soft Skills que todo desenvolvedor deveria ter!!! - Minha Opinião! 2020](https://www.youtube.com/watch?v=7W2sjfMLrfA)
-<!-- YOUTUBE:END -->
-
-➡️ [more videos...][youtube]
-
----
-
----
-
-### 📕 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [🔥TOP 10 extensões VSCode para desenvolvimento React 🔥](https://papode.dev/%F0%9F%94%A5top-10-extens%C3%B5es-vscode-para-desenvolvimento-react-%F0%9F%94%A5/)
-- [Git guia prático para iniciantes - Configurando git - [DESVENDANDO GIT - Parte 1]](https://papode.dev/git-guia-pr%C3%A1tico-para-iniciantes-b%C3%A1sico-desvendando-git/)
-- [Instalando Node.js no Windows [TUTORIAL]](https://papode.dev/instalando-node-js-no-windows-tutorial/)
-- [.map() X .forEach() - JavaScript [Desvendando #pr_01]](https://papode.dev/map-x-foreach-javascript-desvendando-pr_01/)
-<!-- BLOG-POST-LIST:END -->
-
-➡️ [more blog posts...][website]
-
----
-
----
-<div>
-  <a href="https://github.com/benits">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=benits&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=benits&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
+---
 
-[website]: https://papode.dev
-[twitter]: https://twitter.com/omatheusbenites
-[youtube]: https://youtube.com/omatheusbenites
-[instagram]: https://instagram.com/omatheusbenites
-[linkedin]: https://linkedin.com/in/omatheusbenites
+### About me
+
+I'm a **Senior Software Engineer** focused on **AI/LLM product engineering**. I build production AI systems end-to-end — from RAG pipelines and agent architectures to deployment and observability.
+
+Currently building [**tamy.ai**](https://tamy.ai): a production LLM-powered product serving real users — architecting the entire backend, AI pipeline, and infrastructure.
+
+```typescript
+const matheus = {
+  role: "Senior Software Engineer",
+  focus: ["AI/LLM Product Engineering", "Backend Architecture", "Distributed Systems"],
+  building: "tamy.ai — production AI product powered by LLMs, RAG & agents",
+  stack: {
+    languages:  ["TypeScript", "Python", "JavaScript"],
+    backend:    ["Node.js", "Next.js", "Express", "FastAPI"],
+    ai:         ["LangChain", "OpenAI API", "Claude API", "pgvector", "RAG", "Agent Loops"],
+    data:       ["PostgreSQL", "Redis", "MongoDB"],
+    infra:      ["AWS", "Docker", "Vercel", "GitHub Actions"],
+    frontend:   ["React", "Next.js", "Tailwind CSS"],
+  },
+  currentlyExploring: ["LLM Evaluation Frameworks", "AI Observability", "Cost Optimization at Scale"],
+  location: "Brazil (GMT-3) — fluent English, working in US/EU timezones",
+};
+```
+
+---
+
+### What I work on
+
+🔬 **Production LLM Applications** — RAG pipelines, agent loops, prompt management, eval harnesses, cost/latency optimization
+
+🏗️ **Backend Systems at Scale** — Node.js, TypeScript, Python, PostgreSQL, distributed architectures, API design
+
+⚡ **AI-Assisted Development** — shipping real products with LLMs as core infrastructure, not just API wrappers
+
+📐 **System Design & Architecture** — making hard trade-offs on reliability, cost, and speed in production AI systems
+
+---
+
+### Tech stack
+
+<div align="center">
+
+**Core Languages**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+**AI / LLM**
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Claude_API-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+
+**Backend & Data**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+**Infrastructure**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+</div>
+
+---
+
+### Open to opportunities
+
+I'm looking for **senior AI / software engineering roles** at remote-first companies building with LLMs.
+
+| | |
+|---|---|
+| 📍 **Location** | Brazil (GMT-3) — comfortable with US/EU timezone overlap |
+| 🗣️ **Languages** | Fluent English (daily working language) · Native Portuguese |
+| 🎯 **Looking for** | Senior AI Engineer · Senior Backend Engineer · Senior Software Engineer |
+| 🏢 **Company fit** | Remote-first · AI-native product · Series A-C · DevTools |
+
+**Best way to reach me:** [matheus@tamy.ai](mailto:matheus@tamy.ai) · [LinkedIn](https://linkedin.com/in/omatheusbenites)
+
+---
+
+<details>
+<summary><b>📊 GitHub Stats</b></summary>
+<br>
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=benits&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=benits&theme=github-dark-blue&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=benits&layout=compact&langs_count=8&theme=github_dark&hide_border=true&hide=html,css,scss)
+
+</div>
+</details>
+
+<details>
+<summary><b>🏆 GitHub Trophies</b></summary>
+<br>
+<div align="center">
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=benits&theme=darkhub&no-frame=true&no-bg=true&column=7)
+
+</div>
+</details>
+
+<details>
+<summary><b>📈 Contribution Graph</b></summary>
+<br>
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=benits&theme=github-compact&hide_border=true&area=true)
+
+</details>
+
+---
+
+<div align="center">
+  <i>"The best engineers don't just write code — they design systems that solve real problems at scale."</i>
+</div>
