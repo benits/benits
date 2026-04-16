@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ANIMATED TYPING HEADER -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Senior+Software+Engineer+%7C+AI+%2F+LLM+Product+Engineering;Building+production+AI+systems+with+TypeScript+%26+Python)](https://github.com/benits)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=800&height=50&lines=Senior+Software+Engineer+%7C+AI+%2F+LLM+Product+Engineering;Building+production+AI+systems+with+TypeScript+%26+Python;Founder+%40+tamy.ai+%E2%80%94+shipping+LLM-powered+products)](https://github.com/benits)
 
 <p>
   <a href="https://linkedin.com/in/omatheusbenites"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -111,11 +111,11 @@ I'm looking for **senior AI / software engineering roles** at remote-first compa
 <br>
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=benits&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=benits&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&include_orgs=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=benits&theme=github-dark-blue&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=benits&layout=compact&langs_count=8&theme=github_dark&hide_border=true&hide=html,css,scss)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=benits&layout=compact&langs_count=8&theme=github_dark&hide_border=true&hide=html,css,scss,php,hack,objective-c,java&include_orgs=true)
 
 </div>
 </details>
